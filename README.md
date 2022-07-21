@@ -1,11 +1,13 @@
 ### Welcome 👋
-
-I'm Artur. Data Engineering student based in Sydney AUS.
 <!-- Actual text -->
 
-💬 I'm passionate about data related topics. In July 2022 started to take care of my socials, such as  [![Kaggle][1.1]][1], or on [![LinkedIn][2.1]][2].
+👨🏽‍🎓 I'm Artur, Data Engineering student based in Sydney AUS.
 
-🔭 [![Codewars][3.1]][3]
+💬 I'm passionate about data-related topics and enthusiastic about learning new technology. In July 2022 started to take care of my socials. 
+You can find me on [![Kaggle][1.1]][1] and [![LinkedIn][2.1]][2].
+
+🏆 I like to spare some time to solve problems on CodeWars or similar websites to improve my logical thinking, learn more about data structures and get used to write clean code with minimum unnecessary complexity.
+ [![Codewars][3.1]][3]
 <!-- Icons -->
 
 [1.1]: kaggle.png
@@ -18,4 +20,4 @@ I'm Artur. Data Engineering student based in Sydney AUS.
 
 <!-- CodeWars -->
 [3]: https://www.codewars.com/users/Soul_S
-[3.1]: https://www.codewars.com/users/Soul_S/badges/large
+[3.1]: https://www.codewars.com/users/Soul_S/badges/small
