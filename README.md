@@ -9,7 +9,7 @@ You can find me on [![Kaggle][1.1]][1] and [![LinkedIn][2.1]][2].
 🏆 I like to spare some time to solve problems on CodeWars or similar websites to improve my logical thinking, learn more about data structures and get used to write clean code with minimum unnecessary complexity.
  [![Codewars][3.1]][3]
 <!-- Icons -->
-
+📌🟢⚫✅📌
 [1.1]: kaggle.png
 [2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
@@ -21,3 +21,6 @@ You can find me on [![Kaggle][1.1]][1] and [![LinkedIn][2.1]][2].
 <!-- CodeWars -->
 [3]: https://www.codewars.com/users/Soul_S
 [3.1]: https://www.codewars.com/users/Soul_S/badges/small
+
+🎯 Goals for 2022:
+✔️
