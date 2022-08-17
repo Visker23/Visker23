@@ -1,7 +1,7 @@
-### Welcome 👋
+### Hello World, I'm Artur 👋
 <!-- Actual text -->
 
-👨🏽‍🎓 I'm Artur, Data Engineering student based in Sydney AUS.
+👨🏽‍🎓 Data Engineering student based in Sydney AUS.
 
 💬 I'm passionate about data-related topics and enthusiastic about learning new technology. In July 2022 started to take care of my socials. 
 You can find me on [![Kaggle][1.1]][1] and [![LinkedIn][2.1]][2].
@@ -23,5 +23,11 @@ You can find me on [![Kaggle][1.1]][1] and [![LinkedIn][2.1]][2].
 [3.1]: https://www.codewars.com/users/Soul_S/badges/small
 
 🎯 Goals for 2022:
-✔️
+📌Finish first semester of study with minimum 6/7 GPA // ✔️6.41
+📌Obtain JNCIA-Junos or CCNA certs // ⚫ studying for Juniper one
+📌Obtain Cloud cert // ⚫AWS?
+📌Finish second semester of study with minimum 6/7 GPA // ⚫
+📌Read at least 12 books // ⚫7/12
+📌Compete in at least 4 Kaggle competitions // ⚫
+
 <!-- Spare Icons 📌🟢⚫✅📌 -->
