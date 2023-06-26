@@ -20,14 +20,6 @@ You can find me on [![Kaggle][1.1]][1] and [![LinkedIn][2.1]][2].
 
 <!-- CodeWars -->
 [3]: https://www.codewars.com/users/Soul_S
-[3.1]: https://www.codewars.com/users/Soul_S/badges/small
-
-🎯 Goals for 2023:  
-📌Finish last semester of study with minimum 6/7 GPA // ✔️6.41  
-📌Summer Internship // ✔️AWS Solution Architect  
-📌Obtain JNCIA-Junos or CCNA certs // ⚫ studying for Juniper one  
-📌Obtain Cloud cert // ✔️AWS SAA-03  
-📌Read at least 12 books // ⚫3/12  
-📌Compete in at least 4 Kaggle competitions // ⚫  0/4
+[3.1]: https://www.codewars.com/users/Soul_S/badges/micro
   
-<!-- Spare Icons 📌🟢⚫✅📌 -->
+<!-- Spare Icons 📌🟢⚫✅📌🎯 -->
